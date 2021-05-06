@@ -1,5 +1,5 @@
 # Omok_1.0
-A short connect-5 game I made in PyGame
+DO YOU LOVE CONNECT 4? HAVE YOU PLAYED MAPLESTORY? WELL THEN YOU'LL LOVE OMOK
 
 I wanted to use this project to learn more about drawing grids in preparation for an algorithm project. 
 This is an old game I used to play with my mom. It's played on a traditional Go mat. The goal is to be the first to connect 5.
